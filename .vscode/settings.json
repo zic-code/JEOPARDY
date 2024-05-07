@@ -1,0 +1,6 @@
+{
+  "powermode.enabled": false,
+  "powermode.shake.enabled": false,
+  "powermode.presets": "fireworks",
+  "liveServer.settings.port": 5501
+}
